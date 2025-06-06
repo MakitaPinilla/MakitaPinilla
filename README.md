@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 🌸 ¡Hola! Soy **Makarena Pinilla** 🌸
 
 Estoy dando mis primeros pasos en desarrollo **Frontend con Vue** y preparándome para convertirme en **FullStack Python**.  
