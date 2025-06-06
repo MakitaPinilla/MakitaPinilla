@@ -1,16 +1,23 @@
-## Hi there 👋
+🌸 ¡Hola! Soy **Makarena Pinilla** 🌸
 
-<!--
-**MakitaPinilla/MakitaPinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy dando mis primeros pasos en desarrollo **Frontend con Vue** y preparándome para convertirme en **FullStack Python**.  
+Estoy buscando oportunidades como **trainee**, con muchas ganas de aprender, crecer y disfrutar el camino.
 
-Here are some ideas to get you started:
+🌿 Decidí migrar al mundo tech para encontrar un mejor equilibrio entre mi vida familiar y laboral.  
+Soy Ingeniera en Acuicultura y cuento con un diplomado en Gestión de Calidad e Inocuidad Alimentaria, pero me encanta explorar nuevas áreas y abrirme a todo lo que la tecnología ofrece.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tecnologías que manejo (o estoy aprendiendo):**
+
+- 🖌️ HTML & CSS  
+- 💻 JavaScript básico  
+- 🌱 Vue.js (nivel trainee)  
+- 🐍 Python (en proceso)  
+- 📚 Git & GitHub  
+
+💌 **¡Me encantaría conectar!**  
+Si quieres contactarme, mi LinkedIn está en mi perfil.
+
+✨ **Todavía no he definido un área específica**, pero ahora mismo mi foco está en aprender con fluidez y participar en proyectos diversos que me ayuden a crecer.
+
+Gracias por pasar por aquí y visitar mi perfil 💖
+
