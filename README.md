@@ -5,11 +5,14 @@
 
 🌸 ¡Hola! Soy **Makarena Pinilla** 🌸
 
-Estoy dando mis primeros pasos en desarrollo **Frontend con Vue** y preparándome para convertirme en **FullStack Python**.  
-Estoy buscando oportunidades como **trainee**, con muchas ganas de aprender, crecer y disfrutar el camino.
+Estoy dando mis primeros pasos en desarrollo **Frontend Vue** y preparándome para convertirme en **FullStack Python**. 
+Actualmente me encuentro en la búsqueda de oportunidades como **trainee**, con muchas ganas de aprender, crecer y disfrutar el camino.
+Por ahora mientras estudio estaré subiendo algunos de mis proyectos para que me conozcan.
 
 🌿 Decidí migrar al mundo tech para encontrar un mejor equilibrio entre mi vida familiar y laboral.  
-Soy Ingeniera en Acuicultura y cuento con un diplomado en Gestión de Calidad e Inocuidad Alimentaria, pero me encanta explorar nuevas áreas y abrirme a todo lo que la tecnología ofrece.
+De profesión soy Ingeniera en Acuicultura con un Diplomado en Gestión de Calidad e Inocuidad Alimentaria y soy Fundadora de una empresa de Suplementos Alimenticios a base a Algas Marinas llamada AlgaVital.
+
+🌿 El año 2024 estudié Desarrollador Frontend Vue y un Diplomado en Python y Data Science, como verás me he tomado enserio la Programación.
 
 🔧 **Tecnologías que manejo (o estoy aprendiendo):**
 
